@@ -1,13 +1,21 @@
 {
-  "name": "ui-theme-template",
+  "name": "slot-gacor-deposit-5000",
   "theme": "ui",
-  "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "main": "./slots/slot-gacor-deposit-5000",
+  "version": "1.1.0",
+  "description": "Slot Gacor Deposit 5000",
   "keywords": [
-    "ui",
-    "theme"
+    "slot gacor deposit 5000",
+    "agen judi online",
+    "agen slot online",
+    "situs slot gacor",
+    "slot deposit 5000",
+    "slot online deposit termurah"
   ],
-  "repository": "https://github.com/atom-community/ui-theme-template",
+  "activationCommands": {
+    "atom-workspace": "slot-gacor-deposit-5000:toggle"
+  },
+  "repository": "https://github.com/ayam-gorengkalasan/slot-gacor-deposit-5000",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
